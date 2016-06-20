@@ -31,5 +31,5 @@ url = 'http://www.tuling123.com/openapi/api'
 
 auto_reply = TulingAutoReply(key, url)
 
-reply = auto_reply.reply('郑州天气')
+reply = auto_reply.reply('oa')
 print(reply)
